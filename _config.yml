@@ -19,7 +19,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: chadykamar
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 markdown: kramdown
 plugins:
   - jekyll-feed
